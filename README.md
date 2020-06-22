@@ -1,3 +1,7 @@
+【目次】
+
+[TOC]
+
 # クイックへぇボタン
 
 どこにでも埋め込めるへぇボタンです。[実際に試す](https://zhavtom.github.io/QuickHeeButton/)
@@ -10,7 +14,7 @@ iframeが使えるブラウザ (2020年6月現在)
 
 
 
-## 導入方法
+# 導入方法
 
 ```html
 <iframe src="https://zhavtom.github.io/QuickHeeButton/"></iframe>
