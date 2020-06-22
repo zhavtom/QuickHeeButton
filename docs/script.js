@@ -60,7 +60,7 @@ limiter = context.createDynamicsCompressor();
 
 bufferLoader = new BufferLoader(
     context,
-    ['audio/hee_button.wav'
+    ['hee_button.wav'
     ],
     finishedLoading
 );
