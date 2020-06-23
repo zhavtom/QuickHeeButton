@@ -1,7 +1,3 @@
-【目次】
-
-[TOC]
-
 # クイックへぇボタン
 
 どこにでも埋め込めるへぇボタンです。[実際に試す](https://zhavtom.github.io/QuickHeeButton/)
