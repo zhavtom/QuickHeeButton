@@ -23,6 +23,7 @@ iframeが使えるブラウザ (2020年6月現在)
 ## 使い方 - Google Sites
 
 > <img src="https://imgur.com/hYmc5fG.jpg" style="zoom:50%;" />
+>
 > ① 「挿入」タブから「埋め込み」を選択。
 
 
