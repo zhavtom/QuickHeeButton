@@ -20,7 +20,7 @@ iframeが使えるブラウザ (2020年6月現在)
 
 
 
-## 使い方 - Google Sites
+# 使い方 - Google Sites
 
 > <img src="https://imgur.com/hYmc5fG.jpg" style="zoom:50%;" />
 >
